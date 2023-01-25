@@ -1,4 +1,4 @@
-# Mastermind Game
+# Mastermind
 
 - Mastermind is a board game that features 8 different pieces of colors. We will be replacing colors for digits and playing on the command line! 
 - A secret code is then composed of 4 distinct pieces. The player has 10 attempts by default to find the secret code.
