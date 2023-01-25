@@ -6,6 +6,7 @@
 - After every successive input the game will relay to the player the number of "Well placed" and "Misplaced" pieces.
 - If you find the secret code, you win and the game stops. 
 
+- ![mastermind2](https://user-images.githubusercontent.com/36825975/214639631-0e886a80-1759-4d16-909a-8cf7df6eb0d0.png)
 
 
 ##  Installation 
@@ -23,4 +24,5 @@ https://github.com/ahmadiavin/Mastermind/
 - If you wish to specify your own code and attempts then:
 - Example to create your own secret code  "./my_mastermind -c 1234"
 - Example to specify attempts  "./my_mastermind -t 15"
-- Combine both - "./my_mastermind -c 1234 -t 15"
+- Example to combine both - "./my_mastermind -c 1234 -t 15"
+![mastermind3](https://user-images.githubusercontent.com/36825975/214639632-9f79f9d8-3ec9-4114-832c-3476ada23e2b.png)
